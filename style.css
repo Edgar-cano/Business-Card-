@@ -2,5 +2,9 @@
 body {
   background-image: url=("images/computer.jpg");
 }
+h1 {
+  text-align: center;
+    color: #fff;
+}
 
  
