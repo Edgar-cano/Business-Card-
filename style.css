@@ -5,12 +5,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-  </style>
+ </style>
 
 
 div, h1 {
   text-align: center;
-  color: white;
+  color: #f8f8ff; 
   
 }
 
