@@ -8,8 +8,10 @@ body {
   </style>
 
 
-div {
+div, h1 {
   text-align: center;
+  color: white;
+  
 }
 
 
