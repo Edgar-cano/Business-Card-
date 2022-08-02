@@ -1,10 +1,8 @@
-
-
-body {
-  background: url('images/computer.jpg') no-repeat center center fixed;
+html, body {
+  height: 100%;
+  width: 100%;
+  background: url("images/computer.jpg") no-repeat center center fixed; 
 }
-
-
 
 div, h1 {
   text-align: center;
