@@ -1,12 +1,12 @@
 
 html, body {
-  background: url("images/computer.jpg") no-repeat center; 
+  background: url("images/computer.jpg") no-repeat; 
   background-size: cover;
 }
 
 div, h1 {
   text-align: center;
-  color: #00000 ; 
+  color: #f8f8ff ; 
   
 }
 
