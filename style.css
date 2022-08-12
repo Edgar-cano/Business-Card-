@@ -1,6 +1,7 @@
 
 html, body {
   background: url("images/computer.jpg") no-repeat; 
+  background-size: cover;
 }
 
 div, h1 {
