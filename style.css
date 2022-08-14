@@ -39,7 +39,9 @@ div, h1 {
   font-weight: bold;
 }
   
-  a.in {color:#FFFFFF;}
+  a {
+    color:#FFFFFF;
+  }
 
  
 
