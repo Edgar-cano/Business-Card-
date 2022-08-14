@@ -32,11 +32,15 @@ div, h1 {
   color: #f8f8ff ; 
   font-weight: bold;
 }
-a:link {
-  color: green;
+
+  .in {
+  background-color: yellow;
+  color: #f8f8ff ; 
 }
-a:link {
-  color: green;
+  
+  .git {
+  background-color: yellow;
+  color: #f8f8ff ; 
 }
 
 
