@@ -15,11 +15,11 @@ div.container {
   text-align: center;
 }
 
-ul.myul {
+ul.myUl {
   display: inline-block;
   text-align: left;
 }
-ol.myul {
+ol.myOl {
   display: inline-block;
   text-align: left;
 
@@ -27,6 +27,9 @@ div, h1 {
   text-align: center;
   color: #f8f8ff ; 
   font-weight: bold;
+}
+a:link {
+  color: green;
 }
 a:link {
   color: green;
