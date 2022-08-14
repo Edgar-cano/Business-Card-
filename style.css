@@ -37,7 +37,12 @@ div, h1 {
   font-weight: bold;
 }
 
- a:link {
+ div.in a:link {
+  color: blue;
+  background-color: white;
+}
+  
+div.git a:link {
   color: blue;
   background-color: white;
 }
