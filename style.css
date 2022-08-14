@@ -3,6 +3,9 @@ html, body {
   background: url("images/computer.jpg") no-repeat; 
   background-size: cover;
   font-family: Arial, sans-serif;
+  text-align: center;
+  color: #f8f8ff ; 
+  font-weight: bold;
 }
 
 body {
@@ -33,14 +36,9 @@ div, h1 {
   font-weight: bold;
 }
 
-  .in {
-  background-color: yellow;
-  color: #f8f8ff ; 
-}
-  
-  .git {
-  background-color: yellow;
-  color: #f8f8ff ; 
+ a:link {
+  color: blue;
+  background-color: white;
 }
 
 
