@@ -8,6 +8,10 @@ html, body {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+}
+
 body {
   padding-top: 5px;
   padding-right: 10px;
@@ -16,10 +20,12 @@ body {
 }
 div.container {
   text-align: center;
+  height: auto;
 }
 
 div.list {
   text-align: center;
+  height: auto;
 }
 
 
