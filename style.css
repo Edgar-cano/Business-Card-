@@ -22,9 +22,11 @@ div.list {
   text-align: center;
 }
 
-ul.myUl {
-  display: inline-block;
-  text-align: left;
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
 }
 
 ol.myOl {
@@ -38,13 +40,13 @@ div, h1 {
 }
 
  div.in a:link {
-  color: blue;
-  background-color: white;
+  color: #FF0000;
+  background-color: #FFFFFF;
 }
   
 div.git a:link {
-  color: blue;
-  background-color: white;
+  color: #FF0000;
+  background-color: #FFFFFF;
 }
 
 
