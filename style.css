@@ -2,6 +2,7 @@
 html, body {
   background: url("images/computer.jpg") no-repeat; 
   background-size: cover;
+  font-family: Arial, sans-serif;
 }
 
 body {
@@ -10,7 +11,19 @@ body {
   padding-bottom: 5px;
   padding-left: 5px;
 }
-div, li, h1 {
+div.container {
+  text-align: center;
+}
+
+ul.myul {
+  display: inline-block;
+  text-align: left;
+}
+ol.myul {
+  display: inline-block;
+  text-align: left;
+
+div, h1 {
   text-align: center;
   color: #f8f8ff ; 
   font-weight: bold;
