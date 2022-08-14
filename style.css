@@ -41,18 +41,8 @@ div, h1 {
   
   a:link {
   color: #FF0000;
-  background-color: #FFFFFF;
 }
 
- div.in a:link {
-  color: #FF0000;
-  background-color: #FFFFFF;
-}
-  
-div.git a:link {
-  color: #FF0000;
-  background-color: #FFFFFF;
-}
-
+ 
 
  
