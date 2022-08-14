@@ -38,6 +38,11 @@ div, h1 {
   color: #f8f8ff ; 
   font-weight: bold;
 }
+  
+  a:link {
+  color: #FF0000;
+  background-color: #FFFFFF;
+}
 
  div.in a:link {
   color: #FF0000;
