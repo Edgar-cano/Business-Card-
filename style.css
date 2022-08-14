@@ -39,9 +39,7 @@ div, h1 {
   font-weight: bold;
 }
   
-  a:link {
-  color: #FFFFFF;
-}
+  a.in {color:#FFFFFF;}
 
  
 
